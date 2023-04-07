@@ -4,7 +4,7 @@ I'm Fred, a data engineer with experience and great interest in SQL, Python, and
 
 I'm currently based in 🇧🇷 Brazil and 🏢 working at Loft
 
-## 💻 Skills and  Technologies
+## 💻 Skills and Technologies
 
 [![dbt](https://img.shields.io/badge/dbt-6C6672?style=flat&logo=dbt&logoColor=white&color=orange)](https://www.getdbt.com/)
 [![Looker](https://img.shields.io/badge/Looker-3D4555?style=flat&logo=looker&logoColor=white&color=blue)](https://looker.com/)
