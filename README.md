@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Fred, a data engineer with experience and great interest in SQL, Python, and building data pipelines and scalable and maintainable data solutions. I love to learn new skills and technologies and implement them at work and personal projects.
+I'm Fred, a data engineer with experience in SQL, Python, building data pipelines and creating maintainable data solutions. I'm passionate about constantly learning new skills and technologies, which I enjoy implementing in both my professional and personal projects.
 
 I'm currently based in 🇧🇷 Brazil and 🏢 working at Loft
 
