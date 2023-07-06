@@ -2,7 +2,7 @@
 
 I'm Fred, a data engineer with experience in SQL, Python, building data pipelines and creating maintainable data solutions. I'm passionate about constantly learning new skills and technologies, which I enjoy implementing in both my professional and personal projects.
 
-I'm currently based in 🇧🇷 Brazil and 🏢 working at Loft
+I'm currently based in 🇧🇷 Brazil and 🏢 working at Trustly
 
 ## 💻 Skills and Technologies
 
