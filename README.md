@@ -11,6 +11,9 @@ I'm currently based in 🇧🇷 Brazil and 🏢 working at Trustly
 [![Lightdash](https://img.shields.io/badge/Lightdash-FFAA33?style=flat&logo=lightdash&logoColor=white&color=blueviolet)](https://www.lightdash.com/)
 [![Databricks](https://img.shields.io/badge/Databricks-FF813D?style=flat&logo=databricks&logoColor=white&color=red)](https://databricks.com/)
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
+[![Redshift](https://img.shields.io/badge/Redshift-FF0000?style=flat&logo=amazonredshift&logoColor=white)]()
+[![Athena](https://img.shields.io/badge/Athena-7016D2?style=flat&logo=amazonathena&logoColor=white)]()
+[![EMR](https://img.shields.io/badge/EMR-FF9900?style=flat&logo=amazonemr&logoColor=white)]()
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white&color=blueviolet)](https://github.com/features/actions)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
@@ -20,6 +23,7 @@ I'm currently based in 🇧🇷 Brazil and 🏢 working at Trustly
 [![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)]()
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)]()
+
 
 ## :octocat: Relevant own Github repositories
 - **[udacity_dend_capstone_project:](https://github.com/fredmny/udacity_dend_capstone_project)** Capstone project of the Udacity Data Engineering Nanodegree
